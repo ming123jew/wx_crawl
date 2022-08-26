@@ -71,8 +71,8 @@ itchat方式（2017年前的微信号）
 ```
 
 ###  自动化效果
-[打开视频](https://file04.16sucai.com/d/file/2015/0504/cf57eb1952ac4a98f150ed8b734ad6c2.jpg)
+[打开视频](data/video/dbd3ef8df331658ed86186cd968e6968.mp4)
 
 ###  mysql记录
-[打开视频](https://file04.16sucai.com/d/file/2015/0504/cf57eb1952ac4a98f150ed8b734ad6c2.jpg)
+[打开图片](data/image/2022-08-26_10-51-11.png)
 
